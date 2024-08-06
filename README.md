@@ -14,4 +14,4 @@ A carreira tecnológica sempre me chamou atenção. Quanto mais aprendo, mais qu
 
 
 ## 📖 GitHub Status
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lourdesmonteiro24&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
