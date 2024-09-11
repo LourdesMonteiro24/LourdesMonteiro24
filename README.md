@@ -6,8 +6,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas e estou s
 A carreira tecnológica sempre me chamou atenção. Quanto mais aprendo, mais quero aprender. Com isso, espero combinar minhas habilidades e evoluir para novas conquistas.
 
 ## 📝 Aprendendo
-![NodeJs](https://img.shields.io/badge/nodejs-239120?style=for-the-badge&logo=nodejs&logoColor=white) 
-![react](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54)
+![java](https://img.shields.io/badge/java-239120?style=for-the-badge&logo=nodejs&logoColor=white) 
+![angula](https://img.shields.io/badge/angula-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54)
 
 ## 💻 Conecte-se comigo 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lourdesmonteiro24) [
